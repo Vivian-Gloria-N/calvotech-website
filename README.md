@@ -1,2 +1,2 @@
 # calvotech-website
-# This website contains html and css only
+# This website contains html and css only.
